@@ -98,7 +98,6 @@
 * Blockchain tech and smart contracts woudl further secure a mortgage transaction in an encrypeted end-to-end fashion. Think an NFT as a contract, Deed, address, etc.. this has endless 
 
 ## Addendum: Source Citations
----
 The information provided in this repository refers to the following sources:
 
 1. **Conversion Capital's Investment in Pylon**
