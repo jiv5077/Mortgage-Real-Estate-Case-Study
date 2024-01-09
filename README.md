@@ -13,9 +13,8 @@
 * [Results](#Results)
 * [Recommendations](#Recommendations)
 * [Addendum: Source Citations](#Addendum:-Source-Citations)
+  
 
-  
-  
 
 ## Company General Info
 * Pylon Lending
